@@ -43,7 +43,7 @@ My research focuses on **Evolutionary Algorithms and Machine Learning**. I am in
 ## 📫 Connect with Me
 
 - GitHub: [github.com/Pavarase](https://github.com/Pavarase)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [linkedin.com/in/pavarase](https://www.linkedin.com/in/pavarase)
 
 ---
 
